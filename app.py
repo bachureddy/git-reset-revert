@@ -1,5 +1,5 @@
 # Store numbers in variables
-a = 10
+a = 100
 b = 5
 
 # Calculate the sum
